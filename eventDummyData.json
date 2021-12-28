@@ -1,0 +1,20 @@
+[
+    {
+    "id": 1,
+    "student_id": 2,
+    "location_id": 30,
+    "emergency": "STUDENT WITH WEAPON",
+    },
+    {
+    "id": 2,
+    "student_id": 2,
+    "location_id": 29,
+    "emergency": "IM HURT ARM ",
+    },
+    {
+    "id": 3,
+    "student_id": 2,
+    "location_id": 23,
+    "emergency": "FEELING FAINT ",
+    }
+    ]
