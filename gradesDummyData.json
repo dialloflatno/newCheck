@@ -1,0 +1,30 @@
+[
+    {
+    "id": 6,
+    "grade": 80,
+    "comment": "Amazing",
+    "teacher_id": 21,
+    "student_id": 20
+    },
+    {
+    "id": 7,
+    "grade": 75,
+    "comment": "Very Focused",
+    "teacher_id": 24,
+    "student_id": 20
+    },
+    {
+    "id": 8,
+    "grade": 85,
+    "comment": "Oustanding Work",
+    "teacher_id": 22,
+    "student_id": 20
+    },
+    {
+    "id": 9,
+    "grade": 200,
+    "comment": "The Future",
+    "teacher_id": 23,
+    "student_id": 20
+    }
+    ]
